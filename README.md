@@ -18,9 +18,8 @@ https://www.linkedin.com/in/neojuniormokoana/
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=fire4s&theme=dark&hide_border=false) <br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=fire4s&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+![](https://github-readme-streak-stats.herokuapp.com/?user=TonyRathelele&theme=dark&hide_border=false) <br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=TonyRathelele&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ## 📬 Get in Touch
 
 Feel free to connect with me on https://www.linkedin.com/in/neojuniormokoana/ or via email at Neojuniormokoana@gmail.com to collaborate or chat about AI, Data, and creative problem-solving. Let's build something impactful!
