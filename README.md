@@ -1,10 +1,10 @@
 # 🌟 Neo Mokoana: Data Scientist & Engineer                  
 
-Hello! I'm a passionate Tech Specialist with a strong foundation in Data Science and Data Engineering. I build real-world AI applications and modern web tools by leveraging data-driven insights and scalable backend systems. I use cutting-edge technologies to solve problems in areas like healthcare, education, and digital accessibility — from cleaning and analyzing complex datasets to deploying intelligent solutions that deliver measurable impact.
+Hello! I'm a passionate Tech Specialist with a strong foundation in Data Science and Data Engineering. I build real-world AI applications and modern web tools by leveraging data-driven insights and scalable backend systems. I use cutting-edge technologies to solve problems in areas like healthcare, education, and digital accessibility , from cleaning and analyzing complex datasets to deploying intelligent solutions that deliver measurable impact.
 
 # 💫 About Me:
 
-I enjoy creating intelligent, user-friendly applications powered by machine learning, natural language processing, and modern UI frameworks. I also work with data pipelines, ETL processes, and cloud infrastructure to ensure scalable and efficient data flow — from raw ingestion to real-time analytics. Whether it's automating triage systems, building AI study buddies, generating smart resumes, or transforming raw data into actionable insights, I focus on making technology more useful, inclusive, and impactful.
+I enjoy creating intelligent, user-friendly applications powered by machine learning, natural language processing, and modern UI frameworks. I also work with data pipelines, ETL processes, and cloud infrastructure to ensure scalable and efficient data flow, from raw ingestion to real-time analytics. Whether it's automating triage systems, building AI study buddies, generating smart resumes, or transforming raw data into actionable insights, I focus on making technology more useful, inclusive, and impactful.
 
 # 🌐 Socials:
 
