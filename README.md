@@ -1,4 +1,4 @@
-# 🌟 Neo Mokoana: Data Scientist & Engineer                  
+# 🌟 Neo Mokoana: Data Scientist/Engineer & Full Stack Developer                 
 
 Hello! I'm a passionate Tech Specialist with a strong foundation in Data Science and Data Engineering. I build real-world AI applications and modern web tools by leveraging data-driven insights and scalable backend systems. I use cutting-edge technologies to solve problems in areas like healthcare, education, and digital accessibility , from cleaning and analyzing complex datasets to deploying intelligent solutions that deliver measurable impact.
 
